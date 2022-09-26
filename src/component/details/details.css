@@ -1,0 +1,144 @@
+.mainContent{
+    width:90%;
+    margin-left:5%;
+    margin-top:2%;
+    display: inline-block;
+}
+
+
+.imgDiv{
+    height:400px;
+    width:40%;
+    float: left;
+}
+.imgDiv > img {
+    height:400px;
+    width:100%; 
+    border-radius: 25px;
+    border: 8px solid;
+}
+.contentDiv{
+    width:55%;
+    margin-left:4%;
+    float: left;
+    margin-top: -2%;
+    margin-bottom:3%;
+}
+
+.contentDiv > span{
+    font-size:20px;
+}
+
+
+.contentDiv > h4,h2{
+    text-align: left;
+}
+
+
+.contentDiv > h3{
+    text-align: left;
+
+}
+
+.feature_container{
+    width:100%;
+    display: inline-block;
+    margin-bottom: 23px;
+}
+figure{
+    float: left;
+    margin-left:5%;
+    
+}
+
+.featureIcon{
+    height:100px;
+    width:100px;
+}
+.imgIcon{
+    height:100px;
+    width:100px;
+    margin-left:2%
+}
+h1{
+    font-size: 35px;
+    color:#e50914;
+}
+h2{
+    font-size: 25px;
+    color:white;
+}
+p{
+    font-size: 22px;
+}
+.fa-amazon{
+    font-size:25px;
+    color:orange
+}
+.checked{
+    color:red
+}
+.btn1{
+    color:white;
+    margin-left:1%
+}
+
+.btn-proceed{
+    height:50px;
+    width:200px;
+    font-size:20px;
+    background-color:rgb(170, 144, 235)
+}
+
+.btn-back{
+    height:50px;
+    width:200px;
+    font-size:20px;
+    background-color:rgb(237, 120, 120)
+}
+
+.her{
+    margin-top:20px;
+}
+.her a{
+    height:40px;
+    width:60px;
+    font-size:20px;
+}
+.her button{
+    height:40px;
+    width:100px;
+    font-size:20px;
+}
+
+#box{
+    margin-bottom:15px; 
+    border-radius:15px;  
+    margin-left: 10px;
+    width:96%;
+    background-color:#e50914;
+    color:#fff;
+}
+
+#box h1{
+    color:#fff;
+}
+
+#box h4{
+    color:#fff;
+    font-size:20px;
+}
+
+#bax{
+    margin-bottom:15px; 
+    border-radius:15px;  
+    margin-left: 10px;
+    width:96%;
+    background-color:#fff;
+    color:#fff;
+}
+
+#hax{
+    font-size:20px;
+    color:rgb(0, 0, 0);
+}

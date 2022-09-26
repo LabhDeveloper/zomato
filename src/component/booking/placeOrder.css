@@ -1,0 +1,32 @@
+.orderItems{
+    float:left;
+    height:300px;
+    width:250px;
+    margin:2%;
+    box-shadow:10px 10px 20px gray;
+    border-radius:15px;
+    color:black;
+}
+
+.orderItems h3,h4{
+    color:black;
+
+}
+
+.row h2{
+    color:black;
+}
+
+#yat button{
+    height:50px;
+    width:110px;
+    font-size:20px;
+}
+
+.orderItems>img{
+   height:200px;
+   width:100%;
+   border-radius:15px;
+
+}
+
